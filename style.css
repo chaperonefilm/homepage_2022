@@ -4,7 +4,7 @@
   }
   
   header {
-    font-family: "TT";
+    font-family: TT;
     font-weight: bolder;
     font-size: 25px;
     letter-spacing: 0.1em;
@@ -21,7 +21,7 @@
   .footer {
     background-color: rgb(0, 0, 0);
     font-size: 22px;
-    font-family: "TT";
+    font-family: TT;
     text-align: center;
     text-decoration: none;
     position: absolute;
